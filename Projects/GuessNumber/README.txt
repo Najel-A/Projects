@@ -1,0 +1,1 @@
+This is a Guess the Number game. It is my first program using Python's Tkinter IDE. Has some slight bugs with multiple windows opening when playing again. Otherwise works fine.
