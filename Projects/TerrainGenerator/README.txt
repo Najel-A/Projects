@@ -1,0 +1,2 @@
+In this program, I used a turtle graphics to help draw our terrain. This program uses recursion that connects triangles which from a distance subsequently create a terrain from a distance. When running this program a window appears asking for Triangle vertices and a recursion level. 
+The program is designed to view for vertices between -1 to 1 (decimals included) and recommended not to exceed over recursion level 8 due turtle graphics using your CPU heavily, regardless of a graphics card. 
