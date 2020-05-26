@@ -1,0 +1,2 @@
+In this program, I have two files one with classes and methods, and the other is the driver code. When running the program it creates a firework with sound running on Pygame. You can modify the Pyro.py to change the amount of particles that are created when a Firework explodes or the colors. You can read the comments in the code to understand what each section does. 
+*To use sound, have the included wav files in your python directory*
