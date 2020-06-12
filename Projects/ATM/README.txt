@@ -1,0 +1,1 @@
+This is a Java program using basic fundamentals to create an ATM interface within the terminal. Has 4 basic commands: Withdraw, Deposit, Check Account, and Exit. Uses switch statements to swap between commands of the ATM.
