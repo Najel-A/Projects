@@ -1,0 +1,1 @@
+This is a simple script that allows users on a MacOs system to send messages via iMessage. It does not work with windows unfortunately.
